@@ -5,17 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowzhihorng" alt="lowzhihorng" /></a> </p>
 
-- 🔭 I’m currently working on [(none)]((none))
-
 - 🌱 I’m currently learning **data science and machine learning**
-
-- 👯 I’m looking to collaborate on [(none)]((none))
-
-- 🤝 I’m looking for help with [(none)]((none))
 
 - 👨‍💻 All of my projects are available at [https://github.com/LowZhiHorng](https://github.com/LowZhiHorng)
 
-- 📝 I don't regularly write articles [(none)]((none))
+- 📝 I don't regularly write articles
 
 - 💬 Ask me about **my future planning and my interest**
 
