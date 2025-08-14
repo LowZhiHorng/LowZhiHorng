@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Low Zhi Horng</h1>
 <h3 align="center">A passionate Form 5 student from Malaysia</h3>
 
-🌱 I’m currently learning data science and machine learning<br><br>👨‍💻 All of my projects are available at https://github.com/LowZhiHorng<br><br>📝 I don't regularly write articles<br><br>💬 Ask me about my future planning and my interest<br><br>📫 How to reach me: lowzhorng1016@gmail.com<br><br>⚡ Fun fact; I think I'm the one with interest in data science and hiking.
+🌱 I’m currently learning data science and machine learning<br><br>👨‍💻 All of my projects are available at https://github.com/LowZhiHorng<br><br>📝 I don't regularly write articles<br><br>💬 Ask me about my future planning and my interest<br><br>📫 How to reach me: lowzhorng1016@gmail.com<br><br>⚡ Fun fact: I think I'm the one with interest in data science and hiking.
 
 ---
 
