@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **my future planning and my interest**
 
-- 📫 How to reach me **lowzhorng1016@gmail.com**
+- 📫 How to reach me: **lowzhorng1016@gmail.com**
 
-- ⚡ Fun fact **I think I'm the one with interest with data science and hiking.**
+- ⚡ Fun fact; **I think I'm the one with interest in data science and hiking.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
