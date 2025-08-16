@@ -59,32 +59,32 @@
 <div align="center">
 
 ### 🐍 Programming & Data Science  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=Matplotlib&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 
 ### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### ☁️ Cloud & Tools  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) 
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) 
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)  
 
 </div>
 
@@ -95,12 +95,24 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LowZhiHorng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" height="165px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=LowZhiHorng&theme=tokyonight&hide_border=false" height="165px" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=LowZhiHorng&theme=default&hide_border=false&include_all_commits=true&count_private=false" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=LowZhiHorng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LowZhiHorng&theme=tokyonight" height="165px" />
+  </picture>
+  <picture>
+    <source srcset="https://nirzak-streak-stats.vercel.app/?user=LowZhiHorng&theme=default&hide_border=false" media="(prefers-color-scheme: light)" />
+    <source srcset="https://nirzak-streak-stats.vercel.app/?user=LowZhiHorng&theme=tokyonight&hide_border=false" media="(prefers-color-scheme: dark)" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=LowZhiHorng&theme=tokyonight" height="165px" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowZhiHorng&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165px" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LowZhiHorng&theme=default&layout=compact" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LowZhiHorng&theme=tokyonight&layout=compact" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LowZhiHorng&theme=tokyonight&layout=compact" height="165px" />
+  </picture>
 </p>
 
 ---
@@ -110,7 +122,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LowZhiHorng&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5" />
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=LowZhiHorng&theme=flat&margin-w=5" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=LowZhiHorng&theme=tokyonight&margin-w=5" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=LowZhiHorng&theme=tokyonight&margin-w=5" />
+  </picture>
 </p>
 
 ---
@@ -120,7 +136,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=tokyo-night&hide_border=false" />
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=light&hide_border=false" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=tokyo-night&hide_border=false" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=tokyo-night&hide_border=false" />
+  </picture>
 </p>
 
 ---
@@ -130,7 +150,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <picture>
+    <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" media="(prefers-color-scheme: light)" />
+    <source srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  </picture>
 </p>
 
 ---
@@ -140,15 +164,11 @@
 </h2>
 
 <div align="center">
-
 <picture>
-  <!-- Primary (JacobLinCool) -->
   <source srcset="https://leetcard.jacoblin.cool/LowZhiHorng?theme=light,unicorn&ext=heatmap" media="(prefers-color-scheme: light)" />
   <source srcset="https://leetcard.jacoblin.cool/LowZhiHorng?theme=dark&ext=heatmap" media="(prefers-color-scheme: dark)" />
-  <!-- Backup (Kud0) -->
   <img src="https://leetcode-stats-six.vercel.app/?username=LowZhiHorng&theme=dark" alt="LeetCode Stats" />
 </picture>
-
 </div>
 
 ---
@@ -160,7 +180,11 @@
 <p align="center">
 🙏 Special thanks to  
 <br><br>
-<img src="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" />  
+<picture>
+  <source srcset="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-333333?style=for-the-badge&logo=openai&logoColor=white" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" media="(prefers-color-scheme: light)" />
+  <img src="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+</picture>
 <br><br>
 for guiding and contributing to this README design.  
 Without this collaboration, my profile README wouldn’t shine this much ✨  
