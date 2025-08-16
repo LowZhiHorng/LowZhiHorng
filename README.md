@@ -41,13 +41,13 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=📊+Profile+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C896&center=true&vCenter=true&width=435&lines=📊+Profile+Insights" />
 </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LowZhiHorng&label=Profile%20views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/LowZhiHorng?label=Followers&style=for-the-badge&color=6A5ACD" />
-  <img src="https://img.shields.io/github/stars/LowZhiHorng?label=Stars&style=for-the-badge&color=FFD700" />
+  <img src="https://img.shields.io/github/stars/LowZhiHorng?label=Stars&style=for-the-badge&color=FFB400" />
 </p>
 
 ---
