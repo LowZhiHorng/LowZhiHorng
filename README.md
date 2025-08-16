@@ -158,7 +158,7 @@
 </h2>
 
 <p align="center">
-<b>🙏 Appreciation:</b> Special thanks to  
+🙏 Special thanks to  
 <br><br>
 <img src="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" />  
 <br><br>
