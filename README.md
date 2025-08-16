@@ -137,7 +137,7 @@
 
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=light&hide_border=false" media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=github-light&hide_border=false" media="(prefers-color-scheme: light)" />
     <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=tokyo-night&hide_border=false" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LowZhiHorng&theme=tokyo-night&hide_border=false" />
   </picture>
