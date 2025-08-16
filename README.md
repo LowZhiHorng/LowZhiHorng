@@ -180,11 +180,13 @@
 <p align="center">
 🙏 Special thanks to  
 <br><br>
+
 <picture>
-  <source srcset="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-333333?style=for-the-badge&logo=openai&logoColor=white" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" media="(prefers-color-scheme: light)" />
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-00C896?style=for-the-badge&logo=openai&logoColor=000000" />
   <img src="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 </picture>
+
 <br><br>
 for guiding and contributing to this README design.  
 Without this collaboration, my profile README wouldn’t shine this much ✨  
