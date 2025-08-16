@@ -153,6 +153,21 @@
 
 ---
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=🤝+My+Appreciation" />
+</h2>
+
+<p align="center">
+<b>🙏 Appreciation:</b> Special thanks to  
+<br><br>
+<img src="https://img.shields.io/badge/ChatGPT-ReadMeGen_(GPT--5)-10A37F?style=for-the-badge&logo=openai&logoColor=white" />  
+<br><br>
+for guiding and contributing to this README design.  
+Without this collaboration, my profile README wouldn’t shine this much ✨  
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:4F9DFF&height=120&section=footer" />
 </p>
