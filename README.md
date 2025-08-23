@@ -22,7 +22,7 @@
 - 👨‍💻 Explore my projects on [GitHub Portfolio](https://github.com/LowZhiHorng)  
 - 💬 Ask me about **future plans**, **interests**, and **career goals**  
 - 📫 Reach me: **lowzhorng1016@gmail.com**  
-- ⚡ Fun fact: I love both **data science** 📊 & **hiking** 🥾  
+- ⚡ Fun fact: I love both **data science** 📊 & **nature** 🏔️  
 
 ---
 
